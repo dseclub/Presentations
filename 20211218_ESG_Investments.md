@@ -81,4 +81,4 @@ twitter: [@klechowski7](https://twitter.com/klechowski7)
 linkedin: [krzysztof lechowski](https://www.linkedin.com/in/krzysztof-lechowski-8236b212/)
 github: [kshishkin](https://github.com/kshishkin)
 
-I sometimes blog on finance and economy: finanscope.com
+I sometimes blog on finance and economy: [finanscope.com](https://finanscope.com)
