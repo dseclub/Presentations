@@ -12,7 +12,7 @@ paginate: true
 
 
 Krzysztof Lechowski
-Archmedian.com (founder)
+[Archmedian.com](https://archmedian.com) (founder)
 Analyst & Data Engineer
 
 ---
